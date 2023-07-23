@@ -1,0 +1,5 @@
+round("function rounds and ")
+round(veriable, 3)
+
+
+f"Your text{string}, and different type of {int} or {boolean}all in one "
