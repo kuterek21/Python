@@ -1,3 +1,6 @@
+len("checks number of letters/numbers in the string")
+input("input what you want")
+ 
 round("function rounds and ")
 round(veriable, 3)
 
