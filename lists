@@ -10,3 +10,9 @@ extend
 
 fruits_basket.extend(["pozeczki","agrest]")
 
+count items inside the list
+states_of_america ["texas", "dalas", "florida", "NY", "California"]
+total_number_of_states = len(states_of_america)
+print((states_of_america[total_number_of_states - 1])
+
+
