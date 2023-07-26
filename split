@@ -1,0 +1,4 @@
+split seperates the text into a list
+
+variable.split(", ")
+
