@@ -1,0 +1,6 @@
+import random
+-------
+for integers
+variable = random.randint(10, 12)
+for floats
+variable = random.random()
