@@ -5,4 +5,8 @@ lists = [integer, boolean, string] # can mix data types
 
 fruits = [apple, pear, banana ]
 
-fruits_basket.append("cherry")  add 
+fruits_basket.append("cherry")  adding one item to the list
+extend
+
+fruits_basket.extend(["pozeczki","agrest]")
+
