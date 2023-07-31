@@ -1,0 +1,2 @@
+for an_item in a_list:
+  #do something for each item
